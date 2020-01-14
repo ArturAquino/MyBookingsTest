@@ -15,7 +15,7 @@ const useStyles = makeStyles({
 	},
 	media: {
 		height: '100%',
-		minHeight: 180,
+		minHeight: 140,
 		color: '#fff'
 	}
 })
@@ -31,12 +31,20 @@ const TravelCard = ({ cardData }) => {
 					className={classes.media}
 					image={cardData.thumb}
 					title="bookings of user">
-					<Typography gutterBottom variant="h5" component="h2">
+					{/* <Typography gutterBottom variant="h5" component="h2">
 						{cardData.destination}
 					</Typography>
 					<Typography variant="body2" color="textSecondary" component="p">
 						{moment(cardData.outboundDate).format('DD MMM')}
-					</Typography>
+					</Typography> */}
+					<div>
+						<span>
+							{cardData.destination}
+						</span>
+						<span>
+							{moment(cardData.outboundDate).format('DD MMM')}
+						</span>
+					</div>
 				</CardMedia>
 			</CardActionArea>
 		</Card>
