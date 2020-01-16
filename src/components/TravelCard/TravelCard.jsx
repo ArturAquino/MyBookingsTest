@@ -3,7 +3,7 @@ import { makeStyles } from '@material-ui/core/styles'
 import Card from '@material-ui/core/Card'
 import CardActionArea from '@material-ui/core/CardActionArea'
 import CardMedia from '@material-ui/core/CardMedia'
-import Typography from '@material-ui/core/Typography'
+// import Typography from '@material-ui/core/Typography'
 import moment from 'moment'
 import 'moment/locale/pt-br'
 
@@ -11,6 +11,7 @@ moment.locale('en')
 
 const useStyles = makeStyles({
 	card: {
+		width: '100%',
 		maxWidth: 345
 	},
 	media: {
