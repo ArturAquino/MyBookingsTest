@@ -12,7 +12,7 @@ const useStyles = makeStyles({
         padding: '0 0 45px',
         display: 'flex',
         flexFlow: 'row wrap',
-        justifyContent: 'space-around',
+        justifyContent: 'space-between',
         alignItems: 'center'
     }
 })
