@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-bookings-test/static/css/main.30a11beb.chunk.css",
-    "main.js": "/my-bookings-test/static/js/main.df14b12c.chunk.js",
-    "main.js.map": "/my-bookings-test/static/js/main.df14b12c.chunk.js.map",
+    "main.css": "/my-bookings-test/static/css/main.8257b809.chunk.css",
+    "main.js": "/my-bookings-test/static/js/main.47764151.chunk.js",
+    "main.js.map": "/my-bookings-test/static/js/main.47764151.chunk.js.map",
     "runtime-main.js": "/my-bookings-test/static/js/runtime-main.66906594.js",
     "runtime-main.js.map": "/my-bookings-test/static/js/runtime-main.66906594.js.map",
-    "static/js/2.50a8c402.chunk.js": "/my-bookings-test/static/js/2.50a8c402.chunk.js",
-    "static/js/2.50a8c402.chunk.js.map": "/my-bookings-test/static/js/2.50a8c402.chunk.js.map",
+    "static/js/2.990b90ba.chunk.js": "/my-bookings-test/static/js/2.990b90ba.chunk.js",
+    "static/js/2.990b90ba.chunk.js.map": "/my-bookings-test/static/js/2.990b90ba.chunk.js.map",
     "index.html": "/my-bookings-test/index.html",
-    "precache-manifest.4edff9a6783c92855c9d60d82faf39fa.js": "/my-bookings-test/precache-manifest.4edff9a6783c92855c9d60d82faf39fa.js",
+    "precache-manifest.b2bf1f239166ffcf83df98e8c65e722a.js": "/my-bookings-test/precache-manifest.b2bf1f239166ffcf83df98e8c65e722a.js",
     "service-worker.js": "/my-bookings-test/service-worker.js",
-    "static/css/main.30a11beb.chunk.css.map": "/my-bookings-test/static/css/main.30a11beb.chunk.css.map",
-    "static/js/2.50a8c402.chunk.js.LICENSE": "/my-bookings-test/static/js/2.50a8c402.chunk.js.LICENSE"
+    "static/css/main.8257b809.chunk.css.map": "/my-bookings-test/static/css/main.8257b809.chunk.css.map",
+    "static/js/2.990b90ba.chunk.js.LICENSE": "/my-bookings-test/static/js/2.990b90ba.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.66906594.js",
-    "static/js/2.50a8c402.chunk.js",
-    "static/css/main.30a11beb.chunk.css",
-    "static/js/main.df14b12c.chunk.js"
+    "static/js/2.990b90ba.chunk.js",
+    "static/css/main.8257b809.chunk.css",
+    "static/js/main.47764151.chunk.js"
   ]
 }
