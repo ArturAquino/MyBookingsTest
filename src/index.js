@@ -12,7 +12,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
     <BrowserRouter>
         <Switch>
-            <Route path="/" exact={true} component={App} />
+            <Route path={`${process.env.PUBLIC_URL}/`} exact={true} component={App} />
         </Switch>
     </BrowserRouter>, document.getElementById('root'));
 
